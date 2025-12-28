@@ -10,5 +10,7 @@ Essalen is a constructed language designed for clarity and expressiveness.
 - **ka**: marks topic
 - **la**: marks focus
 
-### New particle proposal
-- **kela**: hypothetical question particle (proposed by Lira)
+### Hypothetical question particle
+- **kela**: hypothetical question particle, used to form hypothetical questions. Derived from the older root "kelan" (to wonder).
+
+Example: "Kela tu va?" (What if you go?)
