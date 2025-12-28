@@ -12,7 +12,7 @@ The purpose of Essalen is to provide a tool for communication that is both effic
 
 ## Typo Example
 
-This line contains a typo: please recieve the message. (Line 15)
+This line contains a typo: please receive the message. (Line 15)
 
 ## Further Reading
 
